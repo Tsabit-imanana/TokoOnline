@@ -1,0 +1,5 @@
+user: Tsabit
+pass : 123
+
+untuk akses admin pakai url /tokoonline/admin, karena tidak saya sertakan href untuk ke halaman admin.
+checkbox "remember me" untuk coockie berdurasi 2 menit
